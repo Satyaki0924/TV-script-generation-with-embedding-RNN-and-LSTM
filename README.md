@@ -36,11 +36,11 @@ python run_me.py
 ### Example of bad training
 Setting parameters wrong will lead to overfitting, underfitting or other errors. The following is an example of overfitting.
 
-![Terminal screen_2](https://github.com/Satyaki0924/TV-script-generation-with-embedding-RNN-and-LSTM/blob/master/res/loss2.png?raw=true "Terminal2")
+![Terminal screen_2](https://github.com/Satyaki0924/TV-script-generation-with-embedding-RNN-and-LSTM/blob/master/res/loss1.png?raw=true "Terminal2")
 
 ### Loss graph under correct training
 
-![Terminal screen_3](https://github.com/Satyaki0924/TV-script-generation-with-embedding-RNN-and-LSTM/blob/master/res/loss1.png?raw=true "Terminal4")
+![Terminal screen_3](https://github.com/Satyaki0924/TV-script-generation-with-embedding-RNN-and-LSTM/blob/master/res/loss2.png?raw=true "Terminal4")
 
 ## Test the project
 Run the python file, following the instructions
